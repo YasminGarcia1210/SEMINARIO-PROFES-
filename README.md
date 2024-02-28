@@ -1,2 +1,2 @@
 # SEMINARIO-PROFES-
-Bienvenidos profes al seminario interno de Python 
+Bienvenidos al seminario interno de Python 
